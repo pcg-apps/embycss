@@ -1,0 +1,8 @@
+/* ----------------------- REMOVED ELEMENTS ----------------------- */
+/* ----- Home ----- */
+/* Similar Contents and Scenes in Media Detail Page */
+	#similarCollapsible, #scenesCollapsible { display: none !important;   }
+
+title {
+  display: none;
+}
